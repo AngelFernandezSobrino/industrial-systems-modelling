@@ -1,0 +1,27 @@
+@startuml
+
+!theme reddress-lightblue
+
+title Industrial System Modeling - Assets
+
+
+class Workstation_base
+class Workstation
+
+class CustomProcess1
+class CustomProcess2
+class ConveyorModule
+class Motor
+class PositionSensor
+
+Workstation <|-up- Workstation_base
+Workstation o-down- CustomProcess1
+
+Workstation o-down- CustomProcess2 
+
+Workstation o-down- ConveyorModule
+ConveyorModule o-down- Motor
+ConveyorModule o-down- PositionSensor
+
+
+@enduml

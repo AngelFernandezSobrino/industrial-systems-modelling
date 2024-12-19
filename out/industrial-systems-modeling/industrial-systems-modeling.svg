@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="391px" preserveAspectRatio="none" style="width:508px;height:391px;background:#FFFFFF;" version="1.1" viewBox="0 0 508 391" width="508px" zoomAndPan="magnify"><defs><filter height="300%" id="f1dyvoasto4fe7" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><text fill="#000000" font-family="sans-serif" font-size="18" lengthAdjust="spacing" textLength="283" x="106.25" y="18.6855">Industrial System Modeling - Assets</text><!--MD5=[6363bf0080bcab2e352c7b28ca8d9e55]
+class Workstation_base--><rect codeLine="7" fill="#CCCCCC" filter="url(#f1dyvoasto4fe7)" height="42" id="Workstation_base" style="stroke:#AAAAAA;stroke-width:1.5;" width="128" x="159.5" y="29.6406"/><ellipse cx="171.5" cy="42.6406" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M172.1406,46.7969 Q171.25,46.7969 170.4922,46.5313 Q169.7344,46.2656 169.1875,45.75 Q168.6563,45.2344 168.3516,44.4531 Q168.0469,43.6719 168.0469,42.6563 Q168.0469,41.7031 168.3359,40.9297 Q168.625,40.1563 169.1719,39.5938 Q169.6875,39.0625 170.4609,38.7734 Q171.2344,38.4844 172.1406,38.4844 Q172.6406,38.4844 173.0469,38.5391 Q173.4531,38.5938 173.7969,38.6875 Q174.1563,38.7969 174.4531,38.9219 Q174.75,39.0469 174.9688,39.1563 L174.9688,41.0938 L174.7344,41.0938 Q174.5781,40.9688 174.3516,40.7891 Q174.125,40.6094 173.8281,40.4375 Q173.5313,40.2656 173.1875,40.1484 Q172.8438,40.0313 172.4531,40.0313 Q172.0156,40.0313 171.625,40.1641 Q171.2344,40.2969 170.9063,40.625 Q170.5938,40.9219 170.3984,41.4297 Q170.2031,41.9375 170.2031,42.6563 Q170.2031,43.4063 170.4141,43.9141 Q170.625,44.4219 170.9375,44.7031 Q171.2656,45 171.6719,45.125 Q172.0781,45.25 172.4688,45.25 Q172.8438,45.25 173.2109,45.1406 Q173.5781,45.0313 173.8906,44.8281 Q174.1563,44.6875 174.3828,44.5078 Q174.6094,44.3281 174.75,44.2031 L174.9688,44.2031 L174.9688,46.1094 Q174.6719,46.25 174.3984,46.3672 Q174.125,46.4844 173.8125,46.5625 Q173.4219,46.6719 173.0781,46.7344 Q172.7344,46.7969 172.1406,46.7969 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="102" x="182.5" y="47.0154">Workstation_base</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="160.5" x2="286.5" y1="55.6406" y2="55.6406"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="160.5" x2="286.5" y1="63.6406" y2="63.6406"/><!--MD5=[62f23dec76b46ad0479d23b7f3ce5d6f]
+class Workstation--><rect codeLine="8" fill="#CCCCCC" filter="url(#f1dyvoasto4fe7)" height="42" id="Workstation" style="stroke:#AAAAAA;stroke-width:1.5;" width="94" x="176.5" y="131.6406"/><ellipse cx="188.5" cy="144.6406" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M189.1406,148.7969 Q188.25,148.7969 187.4922,148.5313 Q186.7344,148.2656 186.1875,147.75 Q185.6563,147.2344 185.3516,146.4531 Q185.0469,145.6719 185.0469,144.6563 Q185.0469,143.7031 185.3359,142.9297 Q185.625,142.1563 186.1719,141.5938 Q186.6875,141.0625 187.4609,140.7734 Q188.2344,140.4844 189.1406,140.4844 Q189.6406,140.4844 190.0469,140.5391 Q190.4531,140.5938 190.7969,140.6875 Q191.1563,140.7969 191.4531,140.9219 Q191.75,141.0469 191.9688,141.1563 L191.9688,143.0938 L191.7344,143.0938 Q191.5781,142.9688 191.3516,142.7891 Q191.125,142.6094 190.8281,142.4375 Q190.5313,142.2656 190.1875,142.1484 Q189.8438,142.0313 189.4531,142.0313 Q189.0156,142.0313 188.625,142.1641 Q188.2344,142.2969 187.9063,142.625 Q187.5938,142.9219 187.3984,143.4297 Q187.2031,143.9375 187.2031,144.6563 Q187.2031,145.4063 187.4141,145.9141 Q187.625,146.4219 187.9375,146.7031 Q188.2656,147 188.6719,147.125 Q189.0781,147.25 189.4688,147.25 Q189.8438,147.25 190.2109,147.1406 Q190.5781,147.0313 190.8906,146.8281 Q191.1563,146.6875 191.3828,146.5078 Q191.6094,146.3281 191.75,146.2031 L191.9688,146.2031 L191.9688,148.1094 Q191.6719,148.25 191.3984,148.3672 Q191.125,148.4844 190.8125,148.5625 Q190.4219,148.6719 190.0781,148.7344 Q189.7344,148.7969 189.1406,148.7969 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="68" x="199.5" y="149.0154">Workstation</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="177.5" x2="269.5" y1="157.6406" y2="157.6406"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="177.5" x2="269.5" y1="165.6406" y2="165.6406"/><!--MD5=[0191bf91e3e332efa47f34ce54e15694]
+class CustomProcess1--><rect codeLine="10" fill="#CCCCCC" filter="url(#f1dyvoasto4fe7)" height="42" id="CustomProcess1" style="stroke:#AAAAAA;stroke-width:1.5;" width="121" x="7" y="233.6406"/><ellipse cx="19" cy="246.6406" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M19.6406,250.7969 Q18.75,250.7969 17.9922,250.5313 Q17.2344,250.2656 16.6875,249.75 Q16.1563,249.2344 15.8516,248.4531 Q15.5469,247.6719 15.5469,246.6563 Q15.5469,245.7031 15.8359,244.9297 Q16.125,244.1563 16.6719,243.5938 Q17.1875,243.0625 17.9609,242.7734 Q18.7344,242.4844 19.6406,242.4844 Q20.1406,242.4844 20.5469,242.5391 Q20.9531,242.5938 21.2969,242.6875 Q21.6563,242.7969 21.9531,242.9219 Q22.25,243.0469 22.4688,243.1563 L22.4688,245.0938 L22.2344,245.0938 Q22.0781,244.9688 21.8516,244.7891 Q21.625,244.6094 21.3281,244.4375 Q21.0313,244.2656 20.6875,244.1484 Q20.3438,244.0313 19.9531,244.0313 Q19.5156,244.0313 19.125,244.1641 Q18.7344,244.2969 18.4063,244.625 Q18.0938,244.9219 17.8984,245.4297 Q17.7031,245.9375 17.7031,246.6563 Q17.7031,247.4063 17.9141,247.9141 Q18.125,248.4219 18.4375,248.7031 Q18.7656,249 19.1719,249.125 Q19.5781,249.25 19.9688,249.25 Q20.3438,249.25 20.7109,249.1406 Q21.0781,249.0313 21.3906,248.8281 Q21.6563,248.6875 21.8828,248.5078 Q22.1094,248.3281 22.25,248.2031 L22.4688,248.2031 L22.4688,250.1094 Q22.1719,250.25 21.8984,250.3672 Q21.625,250.4844 21.3125,250.5625 Q20.9219,250.6719 20.5781,250.7344 Q20.2344,250.7969 19.6406,250.7969 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="95" x="30" y="251.0154">CustomProcess1</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="8" x2="127" y1="259.6406" y2="259.6406"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="8" x2="127" y1="267.6406" y2="267.6406"/><!--MD5=[2db1252353373bda4605f832be6a2014]
+class CustomProcess2--><rect codeLine="11" fill="#CCCCCC" filter="url(#f1dyvoasto4fe7)" height="42" id="CustomProcess2" style="stroke:#AAAAAA;stroke-width:1.5;" width="121" x="163" y="233.6406"/><ellipse cx="175" cy="246.6406" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M175.6406,250.7969 Q174.75,250.7969 173.9922,250.5313 Q173.2344,250.2656 172.6875,249.75 Q172.1563,249.2344 171.8516,248.4531 Q171.5469,247.6719 171.5469,246.6563 Q171.5469,245.7031 171.8359,244.9297 Q172.125,244.1563 172.6719,243.5938 Q173.1875,243.0625 173.9609,242.7734 Q174.7344,242.4844 175.6406,242.4844 Q176.1406,242.4844 176.5469,242.5391 Q176.9531,242.5938 177.2969,242.6875 Q177.6563,242.7969 177.9531,242.9219 Q178.25,243.0469 178.4688,243.1563 L178.4688,245.0938 L178.2344,245.0938 Q178.0781,244.9688 177.8516,244.7891 Q177.625,244.6094 177.3281,244.4375 Q177.0313,244.2656 176.6875,244.1484 Q176.3438,244.0313 175.9531,244.0313 Q175.5156,244.0313 175.125,244.1641 Q174.7344,244.2969 174.4063,244.625 Q174.0938,244.9219 173.8984,245.4297 Q173.7031,245.9375 173.7031,246.6563 Q173.7031,247.4063 173.9141,247.9141 Q174.125,248.4219 174.4375,248.7031 Q174.7656,249 175.1719,249.125 Q175.5781,249.25 175.9688,249.25 Q176.3438,249.25 176.7109,249.1406 Q177.0781,249.0313 177.3906,248.8281 Q177.6563,248.6875 177.8828,248.5078 Q178.1094,248.3281 178.25,248.2031 L178.4688,248.2031 L178.4688,250.1094 Q178.1719,250.25 177.8984,250.3672 Q177.625,250.4844 177.3125,250.5625 Q176.9219,250.6719 176.5781,250.7344 Q176.2344,250.7969 175.6406,250.7969 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="95" x="186" y="251.0154">CustomProcess2</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="164" x2="283" y1="259.6406" y2="259.6406"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="164" x2="283" y1="267.6406" y2="267.6406"/><!--MD5=[ed76969d261845dfe6c7ba0f4c0bd3ac]
+class ConveyorModule--><rect codeLine="12" fill="#CCCCCC" filter="url(#f1dyvoasto4fe7)" height="42" id="ConveyorModule" style="stroke:#AAAAAA;stroke-width:1.5;" width="122" x="319.5" y="233.6406"/><ellipse cx="331.5" cy="246.6406" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M332.1406,250.7969 Q331.25,250.7969 330.4922,250.5313 Q329.7344,250.2656 329.1875,249.75 Q328.6563,249.2344 328.3516,248.4531 Q328.0469,247.6719 328.0469,246.6563 Q328.0469,245.7031 328.3359,244.9297 Q328.625,244.1563 329.1719,243.5938 Q329.6875,243.0625 330.4609,242.7734 Q331.2344,242.4844 332.1406,242.4844 Q332.6406,242.4844 333.0469,242.5391 Q333.4531,242.5938 333.7969,242.6875 Q334.1563,242.7969 334.4531,242.9219 Q334.75,243.0469 334.9688,243.1563 L334.9688,245.0938 L334.7344,245.0938 Q334.5781,244.9688 334.3516,244.7891 Q334.125,244.6094 333.8281,244.4375 Q333.5313,244.2656 333.1875,244.1484 Q332.8438,244.0313 332.4531,244.0313 Q332.0156,244.0313 331.625,244.1641 Q331.2344,244.2969 330.9063,244.625 Q330.5938,244.9219 330.3984,245.4297 Q330.2031,245.9375 330.2031,246.6563 Q330.2031,247.4063 330.4141,247.9141 Q330.625,248.4219 330.9375,248.7031 Q331.2656,249 331.6719,249.125 Q332.0781,249.25 332.4688,249.25 Q332.8438,249.25 333.2109,249.1406 Q333.5781,249.0313 333.8906,248.8281 Q334.1563,248.6875 334.3828,248.5078 Q334.6094,248.3281 334.75,248.2031 L334.9688,248.2031 L334.9688,250.1094 Q334.6719,250.25 334.3984,250.3672 Q334.125,250.4844 333.8125,250.5625 Q333.4219,250.6719 333.0781,250.7344 Q332.7344,250.7969 332.1406,250.7969 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="96" x="342.5" y="251.0154">ConveyorModule</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="320.5" x2="440.5" y1="259.6406" y2="259.6406"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="320.5" x2="440.5" y1="267.6406" y2="267.6406"/><!--MD5=[05f1a7330b1ceb1ed664acf8e30033c9]
+class Motor--><rect codeLine="13" fill="#CCCCCC" filter="url(#f1dyvoasto4fe7)" height="42" id="Motor" style="stroke:#AAAAAA;stroke-width:1.5;" width="58" x="291.5" y="335.6406"/><ellipse cx="303.5" cy="348.6406" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M304.1406,352.7969 Q303.25,352.7969 302.4922,352.5313 Q301.7344,352.2656 301.1875,351.75 Q300.6563,351.2344 300.3516,350.4531 Q300.0469,349.6719 300.0469,348.6563 Q300.0469,347.7031 300.3359,346.9297 Q300.625,346.1563 301.1719,345.5938 Q301.6875,345.0625 302.4609,344.7734 Q303.2344,344.4844 304.1406,344.4844 Q304.6406,344.4844 305.0469,344.5391 Q305.4531,344.5938 305.7969,344.6875 Q306.1563,344.7969 306.4531,344.9219 Q306.75,345.0469 306.9688,345.1563 L306.9688,347.0938 L306.7344,347.0938 Q306.5781,346.9688 306.3516,346.7891 Q306.125,346.6094 305.8281,346.4375 Q305.5313,346.2656 305.1875,346.1484 Q304.8438,346.0313 304.4531,346.0313 Q304.0156,346.0313 303.625,346.1641 Q303.2344,346.2969 302.9063,346.625 Q302.5938,346.9219 302.3984,347.4297 Q302.2031,347.9375 302.2031,348.6563 Q302.2031,349.4063 302.4141,349.9141 Q302.625,350.4219 302.9375,350.7031 Q303.2656,351 303.6719,351.125 Q304.0781,351.25 304.4688,351.25 Q304.8438,351.25 305.2109,351.1406 Q305.5781,351.0313 305.8906,350.8281 Q306.1563,350.6875 306.3828,350.5078 Q306.6094,350.3281 306.75,350.2031 L306.9688,350.2031 L306.9688,352.1094 Q306.6719,352.25 306.3984,352.3672 Q306.125,352.4844 305.8125,352.5625 Q305.4219,352.6719 305.0781,352.7344 Q304.7344,352.7969 304.1406,352.7969 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="32" x="314.5" y="353.0154">Motor</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="292.5" x2="348.5" y1="361.6406" y2="361.6406"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="292.5" x2="348.5" y1="369.6406" y2="369.6406"/><!--MD5=[b1650516f6ab60d9ee87bc29cf2e9047]
+class PositionSensor--><rect codeLine="14" fill="#CCCCCC" filter="url(#f1dyvoasto4fe7)" height="42" id="PositionSensor" style="stroke:#AAAAAA;stroke-width:1.5;" width="110" x="384.5" y="335.6406"/><ellipse cx="396.5" cy="348.6406" fill="#1A66C2" rx="8" ry="8" style="stroke:#AAAAAA;stroke-width:1.0;"/><path d="M397.1406,352.7969 Q396.25,352.7969 395.4922,352.5313 Q394.7344,352.2656 394.1875,351.75 Q393.6563,351.2344 393.3516,350.4531 Q393.0469,349.6719 393.0469,348.6563 Q393.0469,347.7031 393.3359,346.9297 Q393.625,346.1563 394.1719,345.5938 Q394.6875,345.0625 395.4609,344.7734 Q396.2344,344.4844 397.1406,344.4844 Q397.6406,344.4844 398.0469,344.5391 Q398.4531,344.5938 398.7969,344.6875 Q399.1563,344.7969 399.4531,344.9219 Q399.75,345.0469 399.9688,345.1563 L399.9688,347.0938 L399.7344,347.0938 Q399.5781,346.9688 399.3516,346.7891 Q399.125,346.6094 398.8281,346.4375 Q398.5313,346.2656 398.1875,346.1484 Q397.8438,346.0313 397.4531,346.0313 Q397.0156,346.0313 396.625,346.1641 Q396.2344,346.2969 395.9063,346.625 Q395.5938,346.9219 395.3984,347.4297 Q395.2031,347.9375 395.2031,348.6563 Q395.2031,349.4063 395.4141,349.9141 Q395.625,350.4219 395.9375,350.7031 Q396.2656,351 396.6719,351.125 Q397.0781,351.25 397.4688,351.25 Q397.8438,351.25 398.2109,351.1406 Q398.5781,351.0313 398.8906,350.8281 Q399.1563,350.6875 399.3828,350.5078 Q399.6094,350.3281 399.75,350.2031 L399.9688,350.2031 L399.9688,352.1094 Q399.6719,352.25 399.3984,352.3672 Q399.125,352.4844 398.8125,352.5625 Q398.4219,352.6719 398.0781,352.7344 Q397.7344,352.7969 397.1406,352.7969 Z " fill="#000000"/><text fill="#000000" font-family="Verdana" font-size="11" lengthAdjust="spacing" textLength="84" x="407.5" y="353.0154">PositionSensor</text><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="385.5" x2="493.5" y1="361.6406" y2="361.6406"/><line style="stroke:#AAAAAA;stroke-width:1.5;" x1="385.5" x2="493.5" y1="369.6406" y2="369.6406"/><!--MD5=[da51f3e1a75ccb82443d3b3b0bf70559]
+link Workstation_base to Workstation--><path codeLine="16" d="M223.5,71.8806 C223.5,83.1306 223.5,97.5406 223.5,111.0106 " fill="none" id="Workstation_base-to-Workstation" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="none" points="230.5,111.4306,223.5,131.4306,216.5,111.4306,230.5,111.4306" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[d8c32df57c40b8b91e57d59c3666db1e]
+reverse link Workstation to CustomProcess1--><path codeLine="17" d="M180.89,180.9506 C154.93,197.5906 122.33,218.4906 98.76,233.6006 " fill="none" id="Workstation-backto-CustomProcess1" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="191.93,173.8806,184.7201,173.7509,181.8273,180.3564,189.0372,180.4861,191.93,173.8806" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[7c62ab45d5e16e0078423fb9596380e0]
+reverse link Workstation to CustomProcess2--><path codeLine="19" d="M223.5,187.1206 C223.5,202.4706 223.5,220.1606 223.5,233.4306 " fill="none" id="Workstation-backto-CustomProcess2" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="223.5,173.8806,219.5,179.8806,223.5,185.8806,227.5,179.8806,223.5,173.8806" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[aaed0debcbc721db37bbdc4dac3894fd]
+reverse link Workstation to ConveyorModule--><path codeLine="21" d="M266.38,180.9506 C292.51,197.5906 325.32,218.4906 349.04,233.6006 " fill="none" id="Workstation-backto-ConveyorModule" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="255.27,173.8806,258.1828,180.4773,265.3923,180.3257,262.4795,173.7291,255.27,173.8806" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[633d6096911127f16d7b8040ef005c13]
+reverse link ConveyorModule to Motor--><path codeLine="22" d="M361.53,287.2506 C352.07,303.0206 340.91,321.6206 332.62,335.4306 " fill="none" id="ConveyorModule-backto-Motor" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="368.36,275.8806,361.8431,278.9676,362.1861,286.1705,368.703,283.0836,368.36,275.8806" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[c4e1c3b7db03d722f3f326bd084243a1]
+reverse link ConveyorModule to PositionSensor--><path codeLine="23" d="M399.15,287.2506 C408.45,303.0206 419.43,321.6206 427.58,335.4306 " fill="none" id="ConveyorModule-backto-PositionSensor" style="stroke:#000000;stroke-width:1.0;"/><polygon fill="#FFFFFF" points="392.44,275.8806,392.0508,283.0812,398.5479,286.2099,398.937,279.0093,392.44,275.8806" style="stroke:#000000;stroke-width:1.0;"/><!--MD5=[73f8e4b5662bc7be101b033515fd9b9d]
+@startuml
+
+!theme reddress-lightblue
+
+title Industrial System Modeling - Assets
+
+
+class Workstation_base
+class Workstation
+
+class CustomProcess1
+class CustomProcess2
+class ConveyorModule
+class Motor
+class PositionSensor
+
+Workstation <|-up- Workstation_base
+Workstation o-down- CustomProcess1
+
+Workstation o-down- CustomProcess2 
+
+Workstation o-down- ConveyorModule
+ConveyorModule o-down- Motor
+ConveyorModule o-down- PositionSensor
+
+
+@enduml
+
+@startuml
+
+
+
+
+skinparam stereotypeCBackgroundColor 1a66c2
+skinparam backgroundColor fff
+
+
+
+
+
+
+
+skinparam circledCharacter {
+  radius 8
+  fontSize 11
+  fontName Verdana
+}
+
+skinparam class {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+
+  attributeFontColor 333
+  attributeFontSize 11
+  attributeIconSize 11
+}
+
+
+skinparam actor {
+    backgroundColor 2a86e2
+  borderColor 1a66c2
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam participant {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam collections {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam SequenceBox{
+    backgroundColor e0e0e0
+  borderColor cccccc
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+
+skinparam interface {
+    backgroundColor 2a86e2
+  borderColor 1a66c2
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam component {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam node {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam database {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam queue {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+
+skinparam usecase {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+skinparam activity {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+skinparam sequence {
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+
+  lifeLineBorderColor 2a86e2
+  lifeLineBackgroundColor e0e0e0
+}
+
+skinparam boundary {
+    backgroundColor 2a86e2
+  borderColor 1a66c2
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam control {
+    backgroundColor 2a86e2
+  borderColor 1a66c2
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam entity {
+    backgroundColor 2a86e2
+  borderColor 1a66c2
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+
+skinparam state {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+  startColor 2a86e2
+  endColor 1a66c2
+}
+
+
+skinparam object {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+
+skinparam note {
+    backgroundColor 2a86e2
+  borderColor 1a66c2
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam cloud {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+    arrowColor 000
+  arrowFontName Verdana
+  arrowFontColor 333
+  arrowFontSize 11
+}
+
+skinparam rectangle {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+skinparam storage {
+    backgroundColor ccc
+  borderColor aaa
+    fontColor 000
+  fontName Verdana
+  fontSize 11
+  stereotypeFontColor 333
+  stereotypeFontSize 11
+}
+
+title Industrial System Modeling - Assets
+
+
+class Workstation_base
+class Workstation
+
+class CustomProcess1
+class CustomProcess2
+class ConveyorModule
+class Motor
+class PositionSensor
+
+Workstation <|-up- Workstation_base
+Workstation o-down- CustomProcess1
+
+Workstation o-down- CustomProcess2 
+
+Workstation o-down- ConveyorModule
+ConveyorModule o-down- Motor
+ConveyorModule o-down- PositionSensor
+
+
+@enduml
+
+PlantUML version 1.2022.0(Tue Jan 11 17:16:42 CET 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1252
+Language: es
+Country: ES
+--></g></svg>
